@@ -4,8 +4,8 @@ This is a simple Apple website clone built with **React.js** and **Vite** to pra
 
 ---
 
-## 🚀 Live Demo
-👉 [View on GitHub Pages](https://devabdisa.github.io/Apple_Clone_React.js/)
+## 🚀 Live 
+👉 [View here👉](https://devabdisa.github.io/Apple_Clone_React.js/)
 
 ---
 
