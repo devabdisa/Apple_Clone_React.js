@@ -5,7 +5,7 @@ This is a simple Apple website clone built with **React.js** and **Vite** to pra
 ---
 
 ## 🚀 Live 
-👉 [View here](https://devabdisa.github.io/Apple_Clone_React.js/)
+👉 [View here](https://app-clone-dev-abdisa.netlify.app/)
 
 ---
 
